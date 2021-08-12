@@ -1,0 +1,85 @@
+microbacia,estacao,Temperatura,pH,Condutividade,Turbidez,Oxigênio_dissolvido
+Água Boa,Dry,20.58,6.02,150,4.2,4.21
+Água Boa,Dry,21.64,6.64,249,4.4,4.47
+Água Boa,Dry,21.67,6.49,206,27.8,3.64
+Engano,Dry,20.59,7.48,63,13,9.29
+Engano,Dry,21.01,7.11,175,10,4.54
+Engano,Dry,22.48,7.57,99,102,8.32
+Engano,Dry,22.36,7.53,66,25.7,7.52
+Curral de Arame,Dry,23.08,7.28,52,29,6.02
+Água Boa,Dry,22.68,7.02,231,49.8,3.92
+Água Boa,Dry,23.7,7.91,419,14.3,3.23
+Curral de Arame,Dry,22.63,8.22,37,14,7.77
+Curral de Arame,Dry,22.55,7.9,43,22.4,8.16
+Curral de Arame,Dry,21.64,7.19,37,7,4.92
+Curral de Arame,Dry,22.54,7.35,48,7.1,6.38
+Água Boa,Rainy,25.65,6.08,146,0,6.46
+Água Boa,Rainy,26.41,7.14,380,3.59,0.85
+Água Boa,Rainy,28.43,7.63,214,49.4,7.12
+Engano,Rainy,27.33,7.28,76,11.6,7.32
+Engano,Rainy,28.64,7.27,200,6,6.5
+Engano,Rainy,26.39,7.63,100,109,7.4
+Engano,Rainy,27.1,7.35,74,14.9,7.06
+Curral de Arame,Rainy,27.67,7.09,59,32.2,6.12
+Água Boa,Rainy,28.14,7.64,272,37.7,5.49
+Água Boa,Rainy,28.71,7.85,470,8,8.16
+Curral de Arame,Rainy,26.96,7.59,41,19,8.71
+Curral de Arame,Rainy,25.81,7.42,63,38,8.35
+Curral de Arame,Rainy,23.8,6.32,36,0,8.28
+Curral de Arame,Rainy,25.02,6.8,59,5.8,6.7
+Água Boa,Rainy,24.92,6.25,140,0.1,4.62
+Água Boa,Rainy,27.27,6.27,252,9.5,4.29
+Água Boa,Rainy,28.9,6.5,100,33.3,5.79
+Engano,Rainy,25.27,5.45,66,29.8,7.12
+Engano,Rainy,26.65,6.21,219,12.9,6.04
+Engano,Rainy,24.14,5.82,101,213,7.25
+Engano,Rainy,25.15,6.06,70,34,6.95
+Curral de Arame,Rainy,25.16,6.32,50,78.7,7.08
+Água Boa,Rainy,25.61,5.84,174,35.4,5.62
+Água Boa,Rainy,25.9,6.29,282,11.2,4.45
+Curral de Arame,Rainy,26.06,6.54,39,115,6.94
+Curral de Arame,Rainy,25.64,6.25,46,36.11,7.8
+Curral de Arame,Rainy,25.47,6.35,29,24,6.75
+Curral de Arame,Rainy,26.66,6.27,44,12.3,7.56
+Água Boa,Rainy,23.05,4.94,143,0,2.99
+Água Boa,Rainy,23.56,5.52,234,0,3.28
+Água Boa,Rainy,25.58,5.73,123,21,3.44
+Engano,Rainy,24.13,6.58,73,14.2,5.63
+Engano,Rainy,22.92,5.88,187,1.3,4.57
+Engano,Rainy,22.52,6.47,107,102,7.82
+Engano,Rainy,23.77,6.58,76,34.1,5.33
+Curral de Arame,Rainy,24.11,6.66,55,110,4.03
+Água Boa,Rainy,25.15,6.93,306,26.9,3.1
+Água Boa,Rainy,24.31,6.74,322,12,4.02
+Curral de Arame,Rainy,25.19,6.93,44,13.4,5.19
+Curral de Arame,Rainy,24.57,6.51,58,12.6,5.12
+Curral de Arame,Rainy,24.64,5.42,34,4,2.57
+Curral de Arame,Rainy,24.21,6.45,53,5.6,6.35
+Água Boa,Dry,20.0,4.19,140,0,2.7
+Água Boa,Dry,23.6,4.06,213,0,3.21
+Água Boa,Dry,22.49,4.41,129,10.9,1.97
+Engano,Dry,20.62,4.61,174,0.2,4.09
+Engano,Dry,20.18,4.92,102,144,5.97
+Engano,Dry,19.63,4.98,68,13.6,5.67
+Engano,Dry,19.79,4.92,67,14.9,5.5
+Curral de Arame,Dry,19.98,4.94,52,11.2,5.9
+Água Boa,Dry,20.33,5.13,213,23.4,3.12
+Água Boa,Dry,21.41,5.25,312,7.4,3.52
+Curral de Arame,Dry,21.2,5.43,38,5,5.72
+Curral de Arame,Dry,21.12,4.87,54,26.4,6.32
+Curral de Arame,Dry,21.91,3.4,32,0.9,4.22
+Curral de Arame,Dry,22.06,3.76,47,1.8,6.04
+Água Boa,Dry,20.14,6.9,138,0,6.6
+Água Boa,Dry,21.94,7.01,165,4.9,6.02
+Água Boa,Dry,19.43,7.28,127,15.5,6.89
+Engano,Dry,18.84,6.83,64,10.9,7.06
+Engano,Dry,20.38,6.93,180,2.7,9.02
+Engano,Dry,20.11,7.77,101,60.4,9.07
+Engano,Dry,19.18,6.81,92,16.9,8.34
+Curral de Arame,Dry,19.45,7.06,50,33.7,8.16
+Água Boa,Dry,19.6,7.25,238,20.4,6.29
+Água Boa,Dry,20.45,7.78,279,7.6,7.51
+Curral de Arame,Dry,19.48,7.65,39,47.3,6.59
+Curral de Arame,Dry,19.7,7.55,49,40.4,6.48
+Curral de Arame,Dry,19.68,5.67,28,0,7.91
+Curral de Arame,Dry,19.31,6.44,41,12.8,7.71
